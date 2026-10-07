@@ -40,8 +40,7 @@ Cardiology and Oncology require closer attention.
 3. Management Summary
 The analysis shows a 21.0% overall readmission rate with noticeable differences across departments, age groups, length of stay, and treatment costs.
 The major areas of concern are Cardiology, patients aged 65–90, very short hospital stays, and high treatment costs without significant improvement in recovery.
-<img width="632" height="347" alt="Power BI 3" src="https://github.com/user-attachments/assets/a58b4797-9ddf-4715-b8fb-1e3b346b2036" />
-
+<img width="617" height="331" alt="bi" src="https://github.com/user-attachments/assets/980a82c5-ca66-4641-a802-8939a2a9b4f8" />
 
 Recommendations
 1.	Strengthen discharge planning for patients with 1–3 day stays.
@@ -54,3 +53,5 @@ Recommendations
 8.	
 Conclusion
 The analysis suggests that reducing readmissions should focus on better discharge planning, targeted follow-up, identifying high-risk patients, and improving departmental performance rather than simply increasing treatment spending or hospital stay duration.
+
+
